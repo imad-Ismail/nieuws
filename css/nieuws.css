@@ -1,0 +1,106 @@
+body {
+	padding: 0;
+	height: 4000px;
+}
+nav {
+	margin-bottom: 50px;
+	position: relative;
+}
+p {
+	font-family: merriweather,serif;
+	font-weight: 700;
+	font-style: italic;
+}
+a {
+	text-decoration: none;
+	color: black;
+	list-style: none;
+}
+.continer h5 {
+	font-family: acuta,serif;
+	font-weight: 900;
+	font-style: italic;
+}
+.row {
+	padding-bottom: 20px;
+	border-bottom: solid 4px #c4c4c4;
+	background-color: white;
+	
+}
+.row1 {
+	border-top: solid 4px #c4c4c4;
+	padding-top: 20px;
+
+}
+.navbar-brand {
+	font-size:20px;
+}
+.navbar-dark .navbar-brand {
+	margin-left: 10px;
+}
+
+.form-control {
+	border: 1px solid #212529;
+
+}
+
+.form-control:focus{
+	border-color: red;
+	box-shadow: none;
+}
+
+.bg-dark {
+	background-color: white!important;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+	margin-bottom: 70px;
+}
+.carousel-item h5 {
+margin-top: 10px;
+}
+.btn {
+	margin: auto;
+}
+.form-inline {
+	margin: auto;
+}
+.navbar-dark {
+	padding: 0 ;
+}
+.row {
+	margin-bottom: 20px;
+}
+.foto img {
+	border-radius: 10px;
+	float: right;
+	object-fit: cover;
+
+}
+.col {
+	background-color: ;
+}
+.navbar-dark {
+	background-color:#000!important;
+}
+.btn-outline-success {
+	color: #ffffff;
+	border-color: #775007;
+}
+.btn-outline-success:not(:disabled):not(.disabled):active,
+.btn-outline-success:hover {
+	color: #000;
+    background-color: #ffffff;
+    border-color: #775007;
+}
+.navbar-brand span{
+	font-weight: bold;
+	border: solid 1px white;
+	background-color: white;
+	color: black;
+	padding: 0 3px
+}
+.carousel-inner {
+	margin:20px 0;
+
+}
